@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB6A52C-99A7-4CF9-9CAD-9489DB9E6398}|Buoi_4_DeQui\\Buoi_4_DeQui.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Buoi_4_DeQui\\Cau1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AB6A52C-99A7-4CF9-9CAD-9489DB9E6398}|Buoi_4_DeQui\\Buoi_4_DeQui.vcxproj|solutionrelative:Buoi_4_DeQui\\Cau1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EE457D-A342-445B-9BA4-84801E5B10FC}|Cau8\\Cau8.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau8\\Cau8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73EE457D-A342-445B-9BA4-84801E5B10FC}|Cau8\\Cau8.vcxproj|solutionrelative:Cau8\\Cau8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA1FE9-1ECA-4397-AD06-0CD3F26D5A7E}|Cau7\\Cau7.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau7\\Cau7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFFA1FE9-1ECA-4397-AD06-0CD3F26D5A7E}|Cau7\\Cau7.vcxproj|solutionrelative:Cau7\\Cau7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5534573-B348-4953-B9C7-14C706702DD9}|Cau6\\Cau6.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau6\\Cau6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5534573-B348-4953-B9C7-14C706702DD9}|Cau6\\Cau6.vcxproj|solutionrelative:Cau6\\Cau6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FC4CE-8927-4A74-8036-2495E401E6EF}|Cau5\\Cau5.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau5\\Cau5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{416FC4CE-8927-4A74-8036-2495E401E6EF}|Cau5\\Cau5.vcxproj|solutionrelative:Cau5\\Cau5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977B8D1E-4667-4F6B-8E95-386FE26E11EF}|Cau4\\Cau4.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau4\\Cau4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{977B8D1E-4667-4F6B-8E95-386FE26E11EF}|Cau4\\Cau4.vcxproj|solutionrelative:Cau4\\Cau4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979D6EDE-92B3-4DE7-BE7D-A5C7D95E4D2D}|Cau3\\Cau3.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau3\\Cau3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{979D6EDE-92B3-4DE7-BE7D-A5C7D95E4D2D}|Cau3\\Cau3.vcxproj|solutionrelative:Cau3\\Cau3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D21796E-8F72-40C8-9390-5B8AFAFD4B7C}|Cau2\\Cau2.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau2\\Cau2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D21796E-8F72-40C8-9390-5B8AFAFD4B7C}|Cau2\\Cau2.vcxproj|solutionrelative:Cau2\\Cau2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cau8.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau8\\Cau8.cpp",
+              "RelativeDocumentMoniker": "Cau8\\Cau8.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau8\\Cau8.cpp",
+              "RelativeToolTip": "Cau8\\Cau8.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T18:01:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cau7.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau7\\Cau7.cpp",
+              "RelativeDocumentMoniker": "Cau7\\Cau7.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau7\\Cau7.cpp",
+              "RelativeToolTip": "Cau7\\Cau7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:59:32.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cau6.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau6\\Cau6.cpp",
+              "RelativeDocumentMoniker": "Cau6\\Cau6.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau6\\Cau6.cpp",
+              "RelativeToolTip": "Cau6\\Cau6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:57:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cau5.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau5\\Cau5.cpp",
+              "RelativeDocumentMoniker": "Cau5\\Cau5.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau5\\Cau5.cpp",
+              "RelativeToolTip": "Cau5\\Cau5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:49:31.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cau4.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau4\\Cau4.cpp",
+              "RelativeDocumentMoniker": "Cau4\\Cau4.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau4\\Cau4.cpp",
+              "RelativeToolTip": "Cau4\\Cau4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:44:36.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cau3.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau3\\Cau3.cpp",
+              "RelativeDocumentMoniker": "Cau3\\Cau3.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau3\\Cau3.cpp",
+              "RelativeToolTip": "Cau3\\Cau3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:43:20.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cau2.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau2\\Cau2.cpp",
+              "RelativeDocumentMoniker": "Cau2\\Cau2.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Cau2\\Cau2.cpp",
+              "RelativeToolTip": "Cau2\\Cau2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:38:22.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cau1.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Buoi_4_DeQui\\Cau1.cpp",
+              "RelativeDocumentMoniker": "Buoi_4_DeQui\\Cau1.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi_4_DeQui\\Buoi_4_DeQui\\Cau1.cpp",
+              "RelativeToolTip": "Buoi_4_DeQui\\Cau1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:33:04.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
