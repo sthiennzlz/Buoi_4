@@ -71,7 +71,7 @@ int tong5_dequy(int n) {
 }
 ////
 
-// Ham tinh tong 1/2 + 2/3 + ... + n(n+1)/(n+1 + sqrt(n+2))
+//// Ham tinh tong 1/2 + 2/3 + ... + n(n+1)/(n+1 + sqrt(n+2))
 double tong6(int n) {
     double sum = 0;
     for (int i = 1; i <= n; i++) {
@@ -79,6 +79,7 @@ double tong6(int n) {
     }
     return sum;
 }
+////
 
 int main() {
     int n;
