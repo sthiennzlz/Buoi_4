@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-/// Ham tinh tong 1 + 2 + 3 + ... + n
+//// Ham tinh tong 1 + 2 + 3 + ... + n
 int tong1(int n) {
     return n * (n + 1) / 2;
 }
@@ -11,7 +11,7 @@ int tong1_dequy(int n) {
     if (n == 1) return 1;
     return n + tong1_dequy(n - 1);
 }
-///
+////
 
 // Ham tinh S(n) voi can bac 5
 double tong2(int n) {
