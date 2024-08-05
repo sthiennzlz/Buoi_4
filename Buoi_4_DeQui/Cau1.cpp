@@ -23,7 +23,7 @@ double tong2(int n) {
 }
 ////
 
-// Ham tinh tong 1/2 + 2/3 + ... + n/(n+1)
+//// Ham tinh tong 1/2 + 2/3 + ... + n/(n+1)
 double tong3(int n) {
     double sum = 0;
     for (int i = 1; i <= n; i++) {
@@ -31,6 +31,7 @@ double tong3(int n) {
     }
     return sum;
 }
+////
 
 // Ham de quy tinh tong 1/2 + 2/3 + ... + n/(n+1)
 double tong3_dequy(int n) {
