@@ -13,7 +13,7 @@ int tong1_dequy(int n) {
 }
 ////
 
-// Ham tinh S(n) voi can bac 5
+//// Ham tinh S(n) voi can bac 5
 double tong2(int n) {
     double sum = 0;
     for (int i = 0; i < n; i++) {
@@ -21,6 +21,7 @@ double tong2(int n) {
     }
     return sum;
 }
+////
 
 // Ham tinh tong 1/2 + 2/3 + ... + n/(n+1)
 double tong3(int n) {
